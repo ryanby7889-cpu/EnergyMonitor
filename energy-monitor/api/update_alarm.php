@@ -2,7 +2,7 @@
 
 require_once __DIR__.'/../config/database.php';
 
-$type=$_POST['type'] ?? '';
+$type=$_POST['type'];
 
 $sql="
 UPDATE alarm_history

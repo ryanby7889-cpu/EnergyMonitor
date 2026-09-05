@@ -1,0 +1,1 @@
+<aside class="sidebar"><a class="active" href="../dashboard/index.php"><i class="bi bi-speedometer2"></i> Dashboard</a><a href="../alarm/alarm.php"><i class="bi bi-bell"></i> Alarm History</a></aside>
