@@ -2,7 +2,6 @@
 
 require_once __DIR__.'/../config/database.php';
 
-type:
 $type=$_POST['type'] ?? '';
 
 $sql="
